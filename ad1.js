@@ -1,0 +1,12 @@
+document.write(`
+<script>
+  atOptions = {
+    'key' : 'eef20bf05299b36d6c9d33b6072ab986',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+<\/script>
+<script src="//walkeralacrityfavorite.com/eef20bf05299b36d6c9d33b6072ab986/invoke.js"><\/script>
+`);
